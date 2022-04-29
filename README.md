@@ -1,0 +1,2 @@
+# bhaskara
+exercício etec
