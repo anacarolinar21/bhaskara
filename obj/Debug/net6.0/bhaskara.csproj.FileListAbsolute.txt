@@ -1,0 +1,15 @@
+C:\Users\Lab0-00\Documents\sinal\bhaskara\bin\Debug\net6.0\bhaskara.exe
+C:\Users\Lab0-00\Documents\sinal\bhaskara\bin\Debug\net6.0\bhaskara.deps.json
+C:\Users\Lab0-00\Documents\sinal\bhaskara\bin\Debug\net6.0\bhaskara.runtimeconfig.json
+C:\Users\Lab0-00\Documents\sinal\bhaskara\bin\Debug\net6.0\bhaskara.dll
+C:\Users\Lab0-00\Documents\sinal\bhaskara\bin\Debug\net6.0\ref\bhaskara.dll
+C:\Users\Lab0-00\Documents\sinal\bhaskara\bin\Debug\net6.0\bhaskara.pdb
+C:\Users\Lab0-00\Documents\sinal\bhaskara\obj\Debug\net6.0\bhaskara.csproj.AssemblyReference.cache
+C:\Users\Lab0-00\Documents\sinal\bhaskara\obj\Debug\net6.0\bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab0-00\Documents\sinal\bhaskara\obj\Debug\net6.0\bhaskara.AssemblyInfoInputs.cache
+C:\Users\Lab0-00\Documents\sinal\bhaskara\obj\Debug\net6.0\bhaskara.AssemblyInfo.cs
+C:\Users\Lab0-00\Documents\sinal\bhaskara\obj\Debug\net6.0\bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\Lab0-00\Documents\sinal\bhaskara\obj\Debug\net6.0\bhaskara.dll
+C:\Users\Lab0-00\Documents\sinal\bhaskara\obj\Debug\net6.0\ref\bhaskara.dll
+C:\Users\Lab0-00\Documents\sinal\bhaskara\obj\Debug\net6.0\bhaskara.pdb
+C:\Users\Lab0-00\Documents\sinal\bhaskara\obj\Debug\net6.0\bhaskara.genruntimeconfig.cache
